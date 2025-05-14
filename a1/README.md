@@ -50,15 +50,7 @@
 
 *Screenshot of Magic Commands (Jupyter Notebook)*:
 
-![Magic Commands (Jupyter Notebook) Screenshot](img/magic_commands-a.png)
-
-![Magic Commands (Jupyter Notebook) Screenshot](img/magic_commands-b.png)
-
-![Magic Commands (Jupyter Notebook) Screenshot](img/magic_commands-c.png)
-
-![Magic Commands (Jupyter Notebook) Screenshot](img/magic_commands-d.png)
-
-![Magic Commands (Jupyter Notebook) Screenshot](img/magic_commands-e.png)
+![Magic Commands (Jupyter Notebook) Screenshot](img/magic_commands.png)
 
 #### Repository Links:
 
