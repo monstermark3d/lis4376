@@ -1,0 +1,65 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "bbafa9fb-85f2-4cb5-8ba3-f3ff8d70b01e",
+   "metadata": {},
+   "source": [
+    "# Assignment 1 - Creating the Development Environment"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "dc0db52d-3ff2-427f-8465-847a6938ebc4",
+   "metadata": {},
+   "source": [
+    "## Paycheck Calculator\n",
+    "\n",
+    "**Developer:** Mark Trombly\n",
+    "\n",
+    "**Course:** LIS4376 - Artificial Intelligence Applications\n",
+    "\n",
+    "**Program requirements:**\n",
+    "\n",
+    "    1. Must use float data type for user input.\n",
+    "2. Must round calculations to two decimal places.\n",
+    "3. Must format currency with dollar sign, and two decimal places.\n",
+    "\n",
+    "**Resources:**\n",
+    "\n",
+    "    1. Federal income tax rates/brackets: https://www.irs.gov/filing/federal-income-tax-rates-and-brackets\n",
+    "    2. Federal and FICA taxes (Florida - NO state income tax!)\n",
+    "    3. Verify calculation:# https://smartasset.com/taxes/florida-paycheck-calculator"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "ee1e8a1b-f53c-43ad-9692-dff6a2260a1e",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
