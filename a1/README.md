@@ -15,7 +15,7 @@
 
 * Screenshot of a1_paycheck_calculator application running
 * Links to A1 .ipynb files:
-    * [paycheck_calculator.ipynb](paycheck_calculator.ipynb "a1_paycheck_calculator Notebook")
+    * [paycheck_calculator.ipynb](https://github.com/monstermark3d/lis4376/blob/master/a1/paycheck_calculator "a1_paycheck_calculator Notebook")
     * [run_py_files_in_jupyter_lab.ipynb](run_py_files_in_jupyter_lab.ipynb "run_py_files_in_jupyter_lab Notebook")
     * [magic_commands.ipynb](magic_commands.ipynb "magic_commands Notebook")
 * git commands w/short descriptions
