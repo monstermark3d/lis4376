@@ -15,9 +15,9 @@
 
 * Screenshot of a1_paycheck_calculator application running
 * Links to A1 .ipynb files:
-    * <a href="https://github.com/monstermark3d/lis4376/blob/master/a1/paycheck_calculator.ipynb" target="_blank">paycheck_calculator.ipynb</a> 
-    * <a href="https://github.com/monstermark3d/lis4376/blob/master/a1/run_py_files_in_jupyter_lab.ipynb" target="_blank">run_py_files_in_jupyter_lab.ipynb</a>
-    * <a href="https://github.com/monstermark3d/lis4376/blob/master/a1/magic_commands.ipynb" target="_blank">magic_commands.ipynb</a>
+    * [paycheck_calculator.ipynb](https://github.com/monstermark3d/lis4376/blob/master/a1/paycheck_calculator.ipynb "paycheck_calculator")
+    * [run_py_files_in_jupyter_lab.ipynb](https://github.com/monstermark3d/lis4376/blob/master/a1/run_py_files_in_jupyter_lab.ipynb "run_py_files_in_jupyter_lab")
+    * [magic_commands.ipynb](https://github.com/monstermark3d/lis4376/blob/master/a1/magic_commands.ipynb "magic_commands")
 * git commands w/short descriptions
 
 #### Git commands w/short descriptions:
