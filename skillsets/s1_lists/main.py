@@ -20,7 +20,7 @@ print("Print list1:")
 functions.lsPrint(list1)
 
 # Append '@' to end of list1
-print("\nAppend '@' character to endof list1:")
+print("\nAppend '@' character to end of list1:")
 functions.lsAppend(list1, "@")
 functions.lsPrint(list1)
 

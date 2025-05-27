@@ -12,7 +12,7 @@ print("\nProgram Requirements:\n"
     + "1. Tuples (Python data structure): *immutable* (cannot be changed!), ordered sequence of elements.\n"
     + "2. Tuples are immutable/unchangeable--that is, cannot insert, update, delete.\n"
     + "\tNote: can reassign or delete an *entire* tuple--but, *not* individual items or slices.\n"
-    + "3. Create tuple using parentheses (tuple): tuple = (include below list elements here...).\n"
+    + "3. Create tuple using parentheses (tuple): tuple = (include below list elements here...)\n"
     + "4. Reassign tuple with, and w/o parentheses (), aka tuple \"packing.\"\n"
     + "5. Use tuple (unpacking), that is, assign values from tuple to sequence of variables: elem1, elem2, elem3, elem4 = my_tuple\n"
     + "6. Backward-engineer the following program.\n")
@@ -22,11 +22,11 @@ print("Print my_tuple:")
 functions.tuPrint(my_tuple)
 
 # Print my_tuple unpacking:
-print("Print my_tuple unpacking:")
+print("\nPrint my_tuple unpacking:")
 elem1, elem2, elem3, elem4 = functions.tuUnpack(my_tuple)
-print(f"elem1={elem1}"
-      +f" elem2={elem2}"
-      +f" elem3={elem3}"
+print(f"elem1={elem1},"
+      +f" elem2={elem2},"
+      +f" elem3={elem3},"
       +f" elem4={elem4}")
 
 # Display number of my_tuple elements

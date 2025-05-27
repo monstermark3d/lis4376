@@ -17,9 +17,9 @@ print("\nProgram Requirements:\n"
     + "Developer: Mark Trombly\n"
     + "1. Sets (Python data structure): mutable, heterogeneous, unordered sequence of elements, CANNOT contain duplicate values.\n"
     + "2. Sets are mutable/changeable--that is, can insert, update, delete.\n"
-    + "3. While setsa re mutable/changeable, they *cannot* contain other mutable items like list, set, or dictionary**\n"
-    + "\tthat is, elements contained in set must be immutable."
-    + "4. Also, since sets are unordered, CANNOT use indexing (or, slicing) to access, update, or delete elemets.\"\n"
+    + "3. While sets are mutable/changeable, they *cannot* contain other mutable items like list, set, or dictionary--\n"
+    + "\tthat is, elements contained in set must be immutable.\n"
+    + "4. Also, since sets are unordered, CANNOT use indexing (or, slicing) to access, update, or delete elements.\"\n"
     + "5. Two methods to create sets:\n"
     + "\ta. Create set using curly brackets {set}: set1 = {include below set elements here...}\n"
     + "\tb. Create set using set() function: set1 = set(<iterable>)\n"
@@ -67,11 +67,11 @@ functions.setPrint(set1)
 
 # Display number of set1 elements
 print("\nDisplay number of set1 elements:")
-functions.setPrintTyp(set1)
+functions.setPrintLen(set1)
 
 # Display updated set elements
 print("\nDisplay updated set1 elements:"
-      + "\nNote: UPdated with following values: 1, 2, 3, 4"
+      + "\nNote: Updated with following values: 1, 2, 3, 4"
       + "\nNote: Sets can ONLY contain unique elements! (Note: True=1, and value 2 already exist!)")
 set1.add(1)
 set1.add(2)
@@ -101,7 +101,7 @@ functions.setPrint(set1)
 print("\nLength of set1:")
 functions.setPrintLen(set1)
 
-print("\nNote: When deleting set element that doesn't exist, discard() ignores it, but remove() raises KeEror!")
+print("\nNote: When deleting set element that doesn't exist, discard() ignores it, but remove() raises KeyEror!")
 
 # Display minimum value (Note: True=1)
 print("\nDisplay minimum value (Note: True=1)")
