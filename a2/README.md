@@ -39,6 +39,8 @@
 
 ![A2 Completed App](img/assignment2.png)
 
+[Assignment2.ipynb](https://github.com/monstermark3d/lis4376/blob/master/a2/a2.ipynb "Assignment 2 ipynb")
+
 *Screenshot skillset 1 Lists:*
 
 ![Screenshot skillset 1](img/s1_lists.png)
