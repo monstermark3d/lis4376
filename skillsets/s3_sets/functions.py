@@ -8,7 +8,7 @@ def get_requirements():
         + "2. Sets are mutable/changeable--that is, can insert, update, delete.\n"
         + "3. While sets are mutable/changeable, they *cannot* contain other mutable items like list, set, or dictionary--\n"
         + "\tthat is, elements contained in set must be immutable.\n"
-        + "4. Also, since sets are unordered, CANNOT use indexing (or, slicing) to access, update, or delete elements.\"\n"
+        + "4. Also, since sets are unordered, CANNOT use indexing (or, slicing) to access, update, or delete elements.\n"
         + "5. Two methods to create sets:\n"
         + "\ta. Create set using curly brackets {set}: set1 = {include below set elements here...}\n"
         + "\tb. Create set using set() function: set1 = set(<iterable>)\n"
@@ -16,8 +16,7 @@ def get_requirements():
         + "\tset2 = set([include below set elements here...]) # set with list\n"
         + "\tset3 = set((include below set elements here...)) # set with tuple\n"
         + "\tNote: An \"iterable\" is *any* object, which can be iterated over--that is, lists, tuples, or even strings.\n"
-        + "6. Backward-engineer the following program.\n"
-        + "\n***Note***: All three sets below print as \"sets\" (i.e., curly brackets), *regardless* of how they were created!\n")
+        + "6. Backward-engineer the following program.\n")
 
 def get_set():
     # create set1

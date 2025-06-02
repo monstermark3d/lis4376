@@ -18,12 +18,14 @@
     - Provide git command descriptions.
 2. [A2 README.md](a2/README.md "My A2 README.md file")
     - Create conda environments.
-    - Using "Separation of Concerns" design principles.
+    - Using "Separation of Concerns" design principles."
     - Examining, sorting, shaping, and analyzing data sets.
     - Provide screenshots of completed app.
     - Provide screenshots of completed Python skill sets.
 3. [A3 README.md](a3/README.md "My A3 README.md file")
-    - TBD
+    - Data Analysis, Shaping, and Visualization data sets.
+    - Provide screenshots of completed app.
+    - Provide screenshots of completed Python skill sets.
 4. [A4 README.md](a4/README.md "My A4 README.md file")
     - TBD
 5. [A5 README.md](a5/README.md "My A5 README.md file")

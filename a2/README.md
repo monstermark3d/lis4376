@@ -14,7 +14,7 @@
 #### README.md file should include the following items:
 
 * Create conda environments.
-* Using "Separation of Concerns" design principles.
+* Using "Separation of Concerns" design principles."
 * Examining, sorting, shaping, and analyzing data sets.
 * Provide screenshots of completed app.
 * Screenshot of skillset 1 Lists.
