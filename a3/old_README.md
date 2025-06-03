@@ -27,25 +27,24 @@
 
 *Screenshot A3 Completed App*:
 
-![A3 Completed App](img/assignment3.png)
+![A3 Completed App](img/assignment3.png) 
 
 [Assignment3.ipynb](https://github.com/monstermark3d/lis4376/blob/master/a3/a3.ipynb "Assignment 3 ipynb")
 
-*Screenshot skillset 4 Dictionaries:*
+| *Screenshot skillset 4 Dictionaries:*             | *Screenshot skillset 5 Pandas DataFrme and Series 1:*       |
+| -------------------------------------             | -----------------------------------------------------       |
 
-![Screenshot skillset 4](img/s4_dictionaries.png)
+| ![Screenshot skillset 4](img/s4_dictionaries.png) | ![Screenshot skillset 5](img/s5_pandas_df_and_series_1.png) |
 
-*Link to Skillset 4 code:*
+| *Link to Skillset 4 code:*                        | *Link to Skillset 5 code:*                                  |
 
-[Skillset4 Main](/skillsets/s4_dictionaries/main.py "S4 Dictionaries main.py")
+| [Skillset4 Main](/skillsets/s4_dictionaries/main.py "S4 Dictionaries main.py") | [Skillset4 Functions](/skillsets/s4_dictionaries/functions.py "S4 Dictionaries functions.py") |
 
-[Skillset4 Functions](/skillsets/s4_dictionaries/functions.py "S4 Dictionaries functions.py")
 
-*Screenshot skillset 5 Pandas DataFrme and Series 1:*
 
-![Screenshot skillset 5](img/s5_pandas_df_and_series_1.png)
 
-*Link to Skillset 5 code:*
+
+
 
 [Skillset5 Main](/skillsets/s5-pandas_df_and_series_1/main.py "S5 pandas_df_and_series_1 main.py")
 

@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-
+#
+# main created by Mark Trombly
+#
 import functions as f
 
 def main():
