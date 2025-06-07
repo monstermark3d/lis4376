@@ -49,11 +49,11 @@
 
 *Link to Skillset 5 code:*
 
-[Skillset5 Code Folder](/skillsets/s5-pandas_df_and_series_1/ "S5 pandas DataFrames and series 1")
+[Skillset5 Code Folder](/skillsets/s5_pandas_df_and_series_1/ "S5 pandas DataFrames and series 1")
 
-[Skillset5 Main](/skillsets/s5-pandas_df_and_series_1/main.py "S5 pandas DataFrames and series 1 main.py")
+[Skillset5 Main](/skillsets/s5_pandas_df_and_series_1/main.py "S5 pandas DataFrames and series 1 main.py")
 
-[Skillset5 Functions](/skillsets/s5-pandas_df_and_series_1/functions.py "S5 pandas DataFrames and series 1 functions.py")
+[Skillset5 Functions](/skillsets/s5_pandas_df_and_series_1/functions.py "S5 pandas DataFrames and series 1 functions.py")
 
 *Screenshot skillset 6 Sets:*
 
