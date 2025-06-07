@@ -37,6 +37,8 @@
 
 *Link to Skillset 4 code:*
 
+[Skillset4 Code Folder](/skillsets/s4_dictionaries/ "S4 Dictionaries")
+
 [Skillset4 Main](/skillsets/s4_dictionaries/main.py "S4 Dictionaries main.py")
 
 [Skillset4 Functions](/skillsets/s4_dictionaries/functions.py "S4 Dictionaries functions.py")
@@ -47,19 +49,23 @@
 
 *Link to Skillset 5 code:*
 
-[Skillset5 Main](/skillsets/s5-pandas_df_and_series_1/main.py "S5 pandas_df_and_series_1 main.py")
+[Skillset5 Code Folder](/skillsets/s5-pandas_df_and_series_1/ "S5 pandas DataFrames and series 1")
 
-[Skillset5 Functions](/skillsets/s5-pandas_df_and_series_1/functions.py "S5 pandas_df_and_series_1functions.py")
+[Skillset5 Main](/skillsets/s5-pandas_df_and_series_1/main.py "S5 pandas DataFrames and series 1 main.py")
+
+[Skillset5 Functions](/skillsets/s5-pandas_df_and_series_1/functions.py "S5 pandas DataFrames and series 1 functions.py")
 
 *Screenshot skillset 6 Sets:*
 
-![Screenshot skillset 6](img/s6_.png)
+![Screenshot skillset 6](img/s6_pandas_df_and_series_2.png)
 
 *Link to Skillset 6 code:*
 
-[Skillset6 Main](/skillsets/s6_/main.py "S6  main.py")
+[Skillset6 Code Folder](/skillsets/s6_pandas_df_and_series_2/ "S6 pandas DataFrames and series 2")
 
-[Skillset6 Functions](/skillsets/s6_/functions.py "S6 functions.py")
+[Skillset6 Main](/skillsets/s6_pandas_df_and_series_2/main.py "S6 pandas DataFrames and series 2 main.py")
+
+[Skillset6 Functions](/skillsets/s6_pandas_df_and_series_2/functions.py "S6 pandas DataFrames and series 2 functions.py")
 
 #### Repository Links:
 

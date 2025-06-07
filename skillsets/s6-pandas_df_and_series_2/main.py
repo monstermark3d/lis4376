@@ -1,19 +1,19 @@
 #!/usr/bin/env python3
-# skillset 4 dictionaries by Mark Trombly
+#
+# skillset 6 Pandas DataFrames and Series Data Structures by Mark Trombly
+#
 """module docstring goes here"""
 import functions as f
 
 def main():
     """program entry"""
     f.get_requirements()
-    #your_dictionary = f.get_dictionary()
-    #f.parse_dictionary(your_dictionary)
-    #f.count_dictionary(your_dictionary)
-    #f.add_element(your_dictionary)
-    #f.upadate_element(your_dictionary)
-    #f.delete_element(your_dictionary)
-    #f.delete_dictionary(your_dictionary)
+    titanic_df = f.get_data()
+    f.and_operator(titanic_df)
+    converted_all, converted_non_num, converted_num = f.convert_data(titanic_df)
+    f.or_operator(converted_num)
+    f.not_operator(titanic_df)
 
 
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+    main()

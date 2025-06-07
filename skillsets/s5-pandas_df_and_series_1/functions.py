@@ -98,7 +98,7 @@ def evaluate_series_data(s_data):
 
     print("\nDisplay type:")
     print(type(num_states))
-    print("Note: sum() used on series objec implicitly converts to numpy.int64_(i.e., scalar value/single number)")
+    print("Note: sum() used on series object implicitly converts to numpy.int64_(i.e., scalar value/single number)")
 
 def convert_dataframe_to_numpy_array(your_bool):
     """function to convert DataFrame to NumPy array"""
@@ -110,8 +110,8 @@ def convert_dataframe_to_numpy_array(your_bool):
     print("\nDisplay your_bool type using \"values\" attribute:")
     print(your_bool.values)
 
-    print("\nDisplay NumPy array using '|values\" attribute:")
-    print(your_bool.values)
+    print("\nDisplay NumPy array using \"values\" attribute:")
+    print(your_bool.to_numpy())
 
     print("\nPrint total number of states with two-letter abbreviation == to \"DE\":\n"
           + "Note: Calling sum() method of ndarray calculates sum across entire array.")
