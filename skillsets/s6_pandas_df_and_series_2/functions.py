@@ -12,7 +12,7 @@ def get_requirements():
     print("\nPandas DataFrames and Series Data Structures")
     print("\nProgram Requirements:\n"
           "Developer: Mark Trombly\n"
-          + "1. Work with pandas DataFrames and Series data structures, for tabular data handling.\n"
+          + "1. Working with pandas DataFrames and Series data structures, for tabular data handling.\n"
           + "2. DataFrame: Two-dimensional labeled data structure (i.e., rows/cols).\n"
           + "3. DataFrame: Series collection. Each column is Series sharing same index.\n"
           + "4. Use multiple conditions: not, and, or.\n"
@@ -115,4 +115,4 @@ def not_operator(my_titanic_df):
     # print(non_excluded_countries)
 
     print("\nTotal number of unique home countries, not including England or France: ", end="")
-    print(len(non_excluded_countries))
+    print(len(non_excluded_countries),"\n")
