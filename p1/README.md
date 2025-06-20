@@ -52,11 +52,11 @@
 
 *Link to Skillset 8 code:*
 
-[Skillset8 Code Folder](/skillsets/s8_interest_calculator/ "S8 Interest Calculator")
+[Skillset8 Code Folder](/skillsets/s8_interest_calculator_monthly/ "S8 Interest Calculator")
 
-[Skillset8 Main](/skillsets/s8_interest_calculator/main.py "S8 Interest Calculator main.py")
+[Skillset8 Main](/skillsets/s8_interest_calculator_monthly/main.py "S8 Interest Calculator main.py")
 
-[Skillset8 Functions](/skillsets/s8_interest_calculator/functions.py "S8 Interest Calculator functions.py")
+[Skillset8 Functions](/skillsets/s8_interest_calculator_monthly/functions.py "S8 Interest Calculator functions.py")
 
 *Screenshot skillset 9 Sets:*
 
