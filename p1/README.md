@@ -24,11 +24,13 @@
 * Bitbucket repository link.
 #### Assignment Screenshots:
 
-*Screenshot A3 Completed App*:
+*Screenshot P1 Completed App*:
 
 ![P1 Completed App](img/p1.png)
 
 [Project1.ipynb](https://github.com/monstermark3d/lis4376/blob/master/p1/p1.ipynb "Project 1 ipynb")
+
+*Screenshot Simple Predictive Analysis Completed App*:
 
 ![Simple Predictive Analysis Completed App](img/simple_predictive_analysis.png)
 
