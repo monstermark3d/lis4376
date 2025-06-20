@@ -23,8 +23,6 @@
 
 #### Assignment Screenshots:
 
-*Screenshot of conda environments*:
-
 *Screenshot A3 Completed App*:
 
 ![A3 Completed App](img/assignment3.png)

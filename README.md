@@ -31,7 +31,10 @@
 5. [A5 README.md](a5/README.md "My A5 README.md file")
     - TBD
 6. [P1 README.md](p1/README.md "My P1 README.md file")
-    - TBD
+    - Text Analysis, Classification, and Prediction.
+    - Provide screenshots of completed P1 app.
+    - SkillSets (7 - 9).
+    - Bitbucket repo (main) link. 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
     - TBD
 
