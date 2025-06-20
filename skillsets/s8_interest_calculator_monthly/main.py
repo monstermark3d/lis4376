@@ -1,6 +1,8 @@
 1#!/usr/bin/env python3
 import functions as f
-
+#
+# skillset 8 Interest Calculator by Mark Trombly
+#
 
 def main():
     """Program entry. Calling environment to user-defined functions"""

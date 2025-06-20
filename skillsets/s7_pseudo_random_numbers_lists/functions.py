@@ -1,4 +1,7 @@
 import random
+#
+# skillset 7 Pseudo Random Number Lists by Mark Trombly
+#
 """Defines four functions:
 
 1. get_requiments()

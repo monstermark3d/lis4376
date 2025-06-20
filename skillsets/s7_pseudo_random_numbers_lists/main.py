@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 import functions as f
-
+#
+# skillset 7 Pseudo Random Number Lists by Mark Trombly
+#
 
 def main():
     """Program entry. Calling environment to user-defined functions."""

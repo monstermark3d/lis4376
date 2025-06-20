@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 import functions as f
-
+#
+# skillset 9 Guessing Game by Mark Trombly
+#
 
 def main():
     """Progrm entry. Calling environment to user-defined functions."""
