@@ -28,11 +28,11 @@
 
 ![P1 Completed App](img/p1.png)
 
-[Project1.ipynb](https://github.com/monstermark3d/lis4376/blob/master/a3/p1.ipynb "Project 1 ipynb")
+[Project1.ipynb](https://github.com/monstermark3d/lis4376/blob/master/p1/p1.ipynb "Project 1 ipynb")
 
 ![Simple Predictive Analysis Completed App](img/simple_predictive_analysis.png)
 
-[Simple Pedictive Analysis.ipynb](https://github.com/monstermark3d/lis4376/blob/master/a3/Simple_predictive_analysis.ipynb "Project 1 ipynb")
+[Simple Pedictive Analysis.ipynb](https://github.com/monstermark3d/lis4376/blob/master/p1/Simple_predictive_analysis.ipynb "Project 1 ipynb")
 
 *Screenshot skillset 7 Pseudo-Random Number Lists:*
 
