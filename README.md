@@ -33,6 +33,7 @@
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - Text Analysis, Classification, and Prediction.
     - Provide screenshots of completed P1 app.
+    - Provide screenshots of completed Simple Predictive Analysis app.
     - SkillSets (7 - 9).
     - Bitbucket repo (main) link. 
 7. [P2 README.md](p2/README.md "My P2 README.md file")

@@ -22,6 +22,7 @@
 * Screenshot of skillset 8.
 * Screenshot of skillset 9.
 * Bitbucket repository link.
+
 #### Assignment Screenshots:
 
 *Screenshot P1 Completed App*:
@@ -48,7 +49,7 @@
 
 [Skillset7 Functions](/skillsets/s7_pseudo_random_number_lists/functions.py "S7 Pseudo-Random Number Lists functions.py")
 
-*Screenshot skillset 8:*
+*Screenshot skillset 8 Interest Calculator:*
 
 ![Screenshot skillset 8](img/s8_interest_calculator.png)
 
@@ -60,7 +61,7 @@
 
 [Skillset8 Functions](/skillsets/s8_interest_calculator_monthly/functions.py "S8 Interest Calculator functions.py")
 
-*Screenshot skillset 9 Sets:*
+*Screenshot skillset 9 Guessing Game:*
 
 ![Screenshot skillset 9](img/s9_guessing_game.png)
 
@@ -71,6 +72,7 @@
 [Skillset9 Main](/skillsets/s9_guessing_game/main.py "S9 Guessing Game main.py")
 
 [Skillset9 Functions](/skillsets/s9_guessing_game/functions.py "S9 Guessing Game functions.py")
+
 #### Repository Links:
 
 *Bitbucket Repository*
