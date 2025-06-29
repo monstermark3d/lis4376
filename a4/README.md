@@ -34,11 +34,11 @@
 
 *Link to Skillset 10 code:*
 
-[Skillset10 Code Folder](/skillsets/s10_simple_shopping_cart/ "S10 Simple Shopping Cart")
+[Skillset 10 Code Folder](/skillsets/s10_simple_shopping_cart/ "S10 Simple Shopping Cart")
 
-[Skillset10 Main](/skillsets/s10_simple_shopping_cart/main.py "S10 Simple Shopping Cart main.py")
+[Skillset 10 Main](/skillsets/s10_simple_shopping_cart/main.py "S10 Simple Shopping Cart main.py")
 
-[Skillset10 Functions](/skillsets/s10_simple_shopping_cart/functions.py "S10 Simple Shopping Cart functions.py")
+[Skillset 10 Functions](/skillsets/s10_simple_shopping_cart/functions.py "S10 Simple Shopping Cart functions.py")
 
 *Screenshot skillset 11 Lists and Directories:*
 
@@ -46,11 +46,11 @@
 
 *Link to Skillset 11 code:*
 
-[Skillset11 Code Folder](/skillsets/s11_lists_and_directories/ "S11 Lists and Directories")
+[Skillset 11 Code Folder](/skillsets/s11_lists_and_directories/ "S11 Lists and Directories")
 
-[Skillset11 Main](/skillsets/s11_lists_and_directories/main.py "S11 Lists and Directories main.py")
+[Skillset 11 Main](/skillsets/s11_lists_and_directories/main.py "S11 Lists and Directories main.py")
 
-[Skillset11 Functions](/skillsets/s11_lists_and_directories/functions.py "S11 Lists and Directories functions.py")
+[Skillset 11 Functions](/skillsets/s11_lists_and_directories/functions.py "S11 Lists and Directories functions.py")
 
 *Screenshot skillset 12 File Information:*
 
@@ -58,11 +58,11 @@
 
 *Link to Skillset 12 code:*
 
-[Skillset12 Code Folder](/skillsets/s12_file_information/ "S12 File Information ")
+[Skillset 12 Code Folder](/skillsets/s12_file_information/ "S12 File Information ")
 
-[Skillset12 Main](/skillsets/s12_file_information/main.py "S12 File Information main.py")
+[Skillset 12 Main](/skillsets/s12_file_information/main.py "S12 File Information main.py")
 
-[Skillset12 Functions](/skillsets/s12_file_information/functions.py "S12 File Information  functions.py")
+[Skillset 12 Functions](/skillsets/s12_file_information/functions.py "S12 File Information  functions.py")
 
 #### Repository Links:
 
