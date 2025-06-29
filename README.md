@@ -27,7 +27,7 @@
     - Provide screenshots of completed app.
     - Provide screenshots of completed Python skill sets.
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - Predictive Analysis (Simple Linear Regression)
+    - Predictive Analysis (Simple Linear Regression).
     - Provide screenshots of completed A4 app.
     - Skillsets (10 - 12).
     - Bitbucket repo (main) link.
