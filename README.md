@@ -27,7 +27,10 @@
     - Provide screenshots of completed app.
     - Provide screenshots of completed Python skill sets.
 4. [A4 README.md](a4/README.md "My A4 README.md file")
-    - TBD
+    - Predictive Analysis (Simple Linear Regression)
+    - Provide screenshots of completed A4 app.
+    - Skillsets (10 - 12).
+    - Bitbucket repo (main) link.
 5. [A5 README.md](a5/README.md "My A5 README.md file")
     - TBD
 6. [P1 README.md](p1/README.md "My P1 README.md file")
