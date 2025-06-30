@@ -40,17 +40,17 @@
 
 [Skillset 10 Functions](/skillsets/s10_simple_shopping_cart/functions.py "S10 Simple Shopping Cart functions.py")
 
-*Screenshot skillset 11 Lists and Directories:*
+*Screenshot skillset 11 Lists and Dictionaries:*
 
-![Screenshot skillset 11](img/s11_lists_and_directories.png)
+![Screenshot skillset 11](img/s11_lists_and_dictionaries.png)
 
 *Link to Skillset 11 code:*
 
-[Skillset 11 Code Folder](/skillsets/s11_lists_and_directories/ "S11 Lists and Directories")
+[Skillset 11 Code Folder](/skillsets/s11_lists_and_dictionaries/ "S11 Lists and Dictionaries")
 
-[Skillset 11 Main](/skillsets/s11_lists_and_directories/main.py "S11 Lists and Directories main.py")
+[Skillset 11 Main](/skillsets/s11_lists_and_dictionaries/main.py "S11 Lists and Dictionaries main.py")
 
-[Skillset 11 Functions](/skillsets/s11_lists_and_directories/functions.py "S11 Lists and Directories functions.py")
+[Skillset 11 Functions](/skillsets/s11_lists_and_dictionaries/functions.py "S11 Lists and Dictionaries functions.py")
 
 *Screenshot skillset 12 File Information:*
 
