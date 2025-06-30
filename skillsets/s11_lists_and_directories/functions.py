@@ -5,7 +5,12 @@
 3. get_phones()
 4. create_contacts()
 """
-
+# create constants
+COMMANDS = ('U', 'D', 'L', 'Q')
+MENU = """U Edit
+D Delete
+L List
+Q Quit"""
 
 def get_requirements():
     """Accepts 0 args. Displays program requirements"""
@@ -181,3 +186,143 @@ def create_contact(keys, values, values2, values3):
     print("\nPrinting dictionary values:\n", my_dictionary.values())
 
     print("\nPrinting dictionary items:\n", my_dictionary.items())
+
+    return my_dictionary
+
+def get_menu():
+    """Accepts 0 args. Displays menu items."""
+    print("\nMENU:\n", MENU, sep="")
+
+
+def get_command():
+    """Accepts 0 args. Returns command number, or error message."""
+    while True:
+        command = input("\nEnter command: ")
+        if not command.upper() in COMMANDS:
+            print("Incorrect command!")
+        else:
+            return command.upper()
+        
+def run_command(command, my_dictionary):
+    """Accepts 1 arg. Runs command based upon user-entered value."""
+
+    if command =='U':
+        update_contact(my_dictionary) # Update first/last name
+    elif command == 'D':
+        remove_contact(my_dictionary) # delete dictionary key/value
+    elif command == 'L':
+        list_contacts(my_dictionary) # display contact list
+
+def list_contacts(my_dictionary):
+    """Accepts 1 arg. Prints list of dictionary contacts."""
+
+    print("\nPrinting dictionary:\n", my_dictionary)
+
+    print("\nPrinting dictionary keys:\n", my_dictionary.keys())
+
+    print("\nPrinting dictionary values:\n", my_dictionary.values())
+
+    print("\nPrinting dictionary items:\n", my_dictionary.items())
+
+def remove_contact(my_dictionary):
+    """Accepts 1 arg. Lists contacts for removal, then prompts user for contact to remove."""
+
+    contact_num = 0
+    del_contact = ""
+
+    for my_contact in my_dictionary.items():
+        print(contact_num, "> ", f"{my_contact}")
+        contact_num += 1
+        #print(contact_num, "> ", my_dictionary[contact_num])
+    contact_list = list(my_dictionary.keys())
+
+    
+    while del_contact != -1:
+        try:
+            print("\nEnter contact to delete (-1 to quit): ", end="")
+
+            del_contact = int(input())
+
+            if del_contact == -1:
+                print("Stopping delete!")
+                break
+            
+            #del_contact = int(del_contact)
+
+            is_within_range = False
+            while not is_within_range and del_contact != -1:
+                if del_contact >= 0 and del_contact <= (len(contact_list) - 1):
+                    is_within_range = True
+
+                else:
+                    print("Contact must be between 0 and", (len(contact_list) - 1), " (-1 to quit).\n")
+                    print("\nEnter contact to delete (-1 to quit):", end="")
+                    del_contact = int(input())
+            break
+
+        except ValueError:
+                        print("Not an int! Try again.\n")
+                        continue
+
+    if del_contact != -1:
+         del my_dictionary[contact_list[del_contact]]
+
+def update_contact(my_dictionary):
+    """Accepts 1 arg. Lists contacts for update, then prompts user to select contact and enter data to edit."""
+
+    contact_num = 0
+    update_contact = ""
+    for my_contact in my_dictionary.items():
+        print(contact_num, "> ", f"{my_contact}")
+        contact_num += 1
+        #print(contact_num, "> ", my_dictionary[contact_num])
+    contact_list = list(my_dictionary.keys())
+
+    
+    while update_contact != -1:
+        try:
+            print("\nEnter contact to update (-1 to quit): ", end="")
+
+            update_contact = int(input())
+
+            if update_contact == -1:
+                print("Stopping update!")
+                break
+            
+            #update_contact = int(update_contact)
+
+            is_within_range = False
+            while not is_within_range and update_contact != -1:
+                if update_contact >= 0 and update_contact <= (len(contact_list) - 1):
+                    is_within_range = True
+
+                else:
+                    print("Contact must be between 0 and", (len(contact_list) - 1), " (-1 to quit).\n")
+                    print("\nEnter contact to update (-1 to quit): ", end="")
+                    update_contact = int(input())
+            break
+
+        except ValueError:
+                        print("Not an int! Try again.\n")
+                        continue
+        
+    if update_contact != -1:
+        # enter phone number
+
+        print("Phone Number: ", end="")
+        my_phone = input()
+
+        # enter first name
+
+        print("First Name: ", end="")
+        my_first = input()
+
+
+        # enter last name
+        print("Last Name: ", end="")
+        my_last = input()
+
+        # update contact 
+        
+        my_dictionary.update({contact_list[update_contact]: [my_phone, my_first, my_last]})
+    

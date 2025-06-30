@@ -9,6 +9,7 @@ def main():
     your_phones = [] # create empty list for phone numbers
     your_firstname = []
     your_lastname = []
+    your_dictionary = []
 
     # function calls
     f.get_requirements()
@@ -27,7 +28,16 @@ def main():
         # print(your_phones)
         # exit()
 
-        f.create_contact(your_emails, your_phones, your_firstname, your_lastname)
+        your_dictionary = f.create_contact(your_emails, your_phones, your_firstname, your_lastname)
+    while True:
+        f.get_menu() # display cwd and menu before each command
+        command = f.get_command()
+
+        if command.upper() !="Q":
+            f.run_command(command, your_dictionary)
+        else:
+            print("\nEnding program!\n")
+            break
     
 
 if __name__ == "__main__":
