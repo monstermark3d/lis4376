@@ -32,7 +32,10 @@
     - Skillsets (10 - 12).
     - Bitbucket repo (main) link.
 5. [A5 README.md](a5/README.md "My A5 README.md file")
-    - TBD
+    - Predictive Analysis (Multiple Linear Regression).
+    - Provide screenshots of completed A5 app.
+    - Skillsets (13 - 15).
+    - Bitbucket repo (main) link.
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - Text Analysis, Classification, and Prediction.
     - Provide screenshots of completed P1 app.
