@@ -2,7 +2,7 @@
 
 ## Mark Trombly
 
-### Assignment A5 Requirements:
+### Assignment 5 Requirements:
 
 *Four Parts:*
 
@@ -46,7 +46,7 @@
 
 *Link to Skillset 14 ipynb:*
 
-[Skillset 14 ipynb](https://github.com/monstermark3d/lis4376/blob/master/skillsets/s14_python_image_processing/s14_python_image_processing.ipynb "S14 Python Image Processing ipynb")
+[Skillset 14 ipynb](https://https://github.com/monstermark3d/lis4376/blob/master/skillsets/s14_python_image_processing/s_14_image_processing_.ipynb "S14 Python Image Processing ipynb")
 
 *Screenshot skillset 15 Python Image Processing2:*
 

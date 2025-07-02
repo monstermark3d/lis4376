@@ -2,7 +2,7 @@
 
 ## Mark Trombly
 
-### Assignment P1 Requirements:
+### Project 1 Requirements:
 
 *Six Parts:*
 
