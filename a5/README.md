@@ -34,7 +34,7 @@
 
 *Link to Skillset 13 ipynb:*
 
-[Skillset 13 ipynb](https://github.com/monstermark3d/lis4376/blob/master/skillsets/s13_algorithms/s13_algorithms_.ipynb "S13 Algorithms ipynb")
+[Skillset 13 ipynb](https://github.com/monstermark3d/lis4376/blob/master/skillsets/s13_algorithms/s13_algorithms.ipynb "S13 Algorithms ipynb")
 
 *Screenshot skillset 14 Python Image Processing:*
 
@@ -42,7 +42,7 @@
 
 *Link to Skillset 14 ipynb:*
 
-[Skillset 14 ipynb](https://github.com/monstermark3d/lis4376/blob/master/skillsets/s14_python_image_processing/s14_image_processing_.ipynb "S14 Python Image Processing ipynb")
+[Skillset 14 ipynb](https://github.com/monstermark3d/lis4376/blob/master/skillsets/s14_python_image_processing/s14_image_processing.ipynb "S14 Python Image Processing ipynb")
 
 *Screenshot skillset 15 Python Image Processing2:*
 
@@ -50,7 +50,7 @@
 
 *Link to Skillset 15 ipynb:*
 
-[Skillset 15 ipynb](https://github.com/monstermark3d/lis4376/blob/master/skillsets/s15_python_image_processing2/s15_image_processing2_.ipynb "S15 Python Image Processing2 ipynb")
+[Skillset 15 ipynb](https://github.com/monstermark3d/lis4376/blob/master/skillsets/s15_python_image_processing2/s15_image_processing2.ipynb "S15 Python Image Processing2 ipynb")
 
 #### Repository Links:
 
