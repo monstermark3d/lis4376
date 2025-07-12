@@ -28,9 +28,13 @@
 
 [Assignment 5.ipynb](https://github.com/monstermark3d/lis4376/blob/master/a5/a5.ipynb "Assignment 5 ipynb")
 
-*Screenshot skillset 13 :*
+*Screenshot skillset 13 Algorithms:*
 
 ![Screenshot skillset 13](img/s13_algorithms.png)
+
+*Screenshot skillset 13 with 100 decision-trees:*
+
+![Screenshot skillset 13](img/s13_algorithms-b.png)
 
 *Link to Skillset 13 ipynb:*
 
