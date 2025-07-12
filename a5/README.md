@@ -28,6 +28,18 @@
 
 [Assignment 5.ipynb](https://github.com/monstermark3d/lis4376/blob/master/a5/a5.ipynb "Assignment 5 ipynb")
 
+*Screenshot A5 #17: x = bream[[\'VerticalLength\']]:
+
+![A5 Completed App](img/a5-vert.png)
+
+*Screenshot A5 #17: x = bream[[\'Width\']]*:
+
+![A5 Completed App](img/a5-width.png)
+
+*Screenshot A5 #17: x = bream[[\'Height\']]*:
+
+![A5 Completed App](img/a5-height.png)
+
 *Screenshot skillset 13 Algorithms:*
 
 ![Screenshot skillset 13](img/s13_algorithms.png)
