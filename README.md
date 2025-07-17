@@ -43,5 +43,7 @@
     - SkillSets (7 - 9).
     - Bitbucket repo (main) link. 
 7. [P2 README.md](p2/README.md "My P2 README.md file")
-    - TBD
-
+    - Deep Learning: Image Classification.
+    - Provide screenshots of completed P2 app.
+    - In-Class Debugging Exercise screenshot.
+    - Bitbucket repo (main) link. 
