@@ -1,5 +1,5 @@
 #
-# Functions created by Mark Trombly
+# Functions debugged by Mark Trombly
 #
 def get_requirements():
     print("Payroll Calculator")
@@ -31,9 +31,11 @@ def calculate_payroll():
 
     # Process:
     # Calculations
-    base_pay = BASE_HOURS * pay_rate
+    base_pay = BASE_HOURS * pay_rate    # fix base pay -> base_pay = BASE_HOURS - pay_rate
+    
+    # add validation for hours > BASE_HOURS for overtime calculation
     if hours > BASE_HOURS:  # validate overtime hours if greater than BASE_HOURS
-        overtime_hours = hours - BASE_HOURS
+        overtime_hours = hours - BASE_HOURS # calculate overtime hours from BASE_HOURS
     else:
         overtime_hours = 0.0    # else set overtime_hours to 0.0
 
@@ -57,14 +59,14 @@ def calculate_payroll():
         gross_pay = hours * pay_rate + holiday_pay
 
         # Display pay
-        print_pay(base_pay, overtime_pay, holiday_pay, gross_pay)
+        print_pay(base_pay, overtime_pay, holiday_pay, gross_pay) # fix funciton argument names -> print_pay(b_pay, o_pay, h_pay, g_pay)
 
         print()
 
 
 def print_pay(base_pay, overtime_pay, holiday_pay, gross_pay):
-    print("\nOutput:")
-    print("{0:<10} ${1:,.2f}".format('Base:', base_pay))
-    print("{0:<10} ${1:,.2f}".format('Overtime:', overtime_pay))
-    print("{0:<10} ${1:,.2f}".format('Holiday:', holiday_pay))
-    print("{0:<10} ${1:,.2f}".format('Gross:', gross_pay))
+    print("\nOutput:")                                              # add indention
+    print("{0:<10} ${1:,.2f}".format('Base:', base_pay))            # add indention
+    print("{0:<10} ${1:,.2f}".format('Overtime:', overtime_pay))    # add indention
+    print("{0:<10} ${1:,.2f}".format('Holiday:', holiday_pay))      # add indention
+    print("{0:<10} ${1:,.2f}".format('Gross:', gross_pay))          # add indention
